@@ -5,7 +5,7 @@ front: false
 permalink: /info/parking
 ---
 
-## <i class="fa fa-car fa-2x title-icon"></i> <br> {{page.title}}
+## <i class="fa fa-car title-icon"></i> <br> {{page.title}}
 
 Le Morrin Centre ne dispose pas d’espaces de stationnement. Le Centre est situé à proximité de nombreux espaces de stationnement souterrain:
 
