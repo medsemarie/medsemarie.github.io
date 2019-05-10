@@ -9,7 +9,7 @@ permalink: /info/
 -------------------
 # {{page.title}}
 
-## <i class="fa fa-star fa-2x title-icon"></i> <br> Quoi de neuf?
+## <i class="fa fa-star title-icon"></i> <br> Quoi de neuf?
 
 Dans cette section, nous inscrirons un résumé des nouvelles informations.
 
