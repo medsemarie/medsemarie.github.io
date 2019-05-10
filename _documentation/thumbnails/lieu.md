@@ -6,7 +6,7 @@ thumbnail: true
 ---
 
 
-# <i class="fas fa-map-marker-alt fa-2x title-icon"></i> <br>Lieu
+# <i class="fas fa-map-marker-alt title-icon"></i> <br>Lieu
 
 Morrin Center
 44 Chaussée des Écossais, Québec
