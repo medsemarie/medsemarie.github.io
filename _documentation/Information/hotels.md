@@ -5,7 +5,7 @@ front: false
 permalink: /info/hotel
 ---
 
-## <i class="fa fa-bed fa-2x title-icon"></i> <br> {{page.title}}
+## <i class="fa fa-bed title-icon"></i> <br> {{page.title}}
 
 Si vous prévoyez dormir à l'hôtel, l'hôtel Champlain se directement en face (20 mètes) du Morrin Center
 
