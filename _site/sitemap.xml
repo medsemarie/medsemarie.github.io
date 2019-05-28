@@ -16,6 +16,9 @@
 <loc>http://localhost:4000/info/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/info/reception</loc>
+</url>
+<url>
 <loc>http://localhost:4000/info/cadeaux</loc>
 </url>
 <url>
