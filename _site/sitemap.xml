@@ -4,13 +4,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/info/horaire</loc>
+<loc>http://localhost:4000/info/programme</loc>
+</url>
+<url>
+<loc>http://localhost:4000/info/infos</loc>
 </url>
 <url>
 <loc>http://localhost:4000/info/parking</loc>
-</url>
-<url>
-<loc>http://localhost:4000/info/hotel</loc>
 </url>
 <url>
 <loc>http://localhost:4000/info/</loc>
@@ -20,6 +20,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/info/cadeaux</loc>
+</url>
+<url>
+<loc>http://localhost:4000/info/hotel</loc>
 </url>
 <url>
 <loc>http://localhost:4000/documentation/date</loc>

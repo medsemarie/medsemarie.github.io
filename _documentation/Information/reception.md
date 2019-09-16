@@ -5,7 +5,11 @@ front: false
 permalink: /info/reception
 ---
 
-## <i class="fas fa-glass-cheers title-icon"></i> <br> {{page.title}}
+<div>
+<i class="fa fa-glass-cheers title-icon"></i>
+<h2 id="réception"> {{page.title}}</h2>
+</div>
+
 **Oui, il y aura un bar à volonté.**
 
 Votre participation au mariage est le plus beau cadeau que vous pouvez nous faire. 

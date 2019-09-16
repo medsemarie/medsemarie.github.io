@@ -5,7 +5,10 @@ front: false
 permalink: /info/cadeaux
 ---
 
-## <i class="fa fa-gift title-icon"></i> <br> {{page.title}}
+<div>
+<i class="fa fa-gift title-icon"></i>
+<h2 id="cadeaux"> {{page.title}}</h2>
+</div>
 
 Bien qu'il soit coutume de produire une liste de cadeaux, nous n'avons décidé de ne pas en faire.
 Nous avons déjà tout ce qu'il nous faut et sommes partisans d'un mode de vie simple. 
