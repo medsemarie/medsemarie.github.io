@@ -30,7 +30,7 @@ Le Morrin Center ne dispose pas d’espaces de stationnement. Le centre est situ
 
 Ces stationnements sont en opération 24 heures sur 24, sept jours sur sept. 
 
-Le Morrin Center (44 Chaussée des Écossais, Québec) - <a href="https://www.google.com/maps/place/Centre+culturel+Morrin+Centre/@46.8127273,-71.2104537,15z/data=!4m2!3m1!1s0x0:0x25e3e000919cd663?sa=X&ved=2ahUKEwij-MWa8NXhAhXnrlQKHQqfDngQ_BIwEXoECAoQCA">Google Maps</a>:
+Le Morrin Center (44 Chaussée des Écossais, Québec) - <a href="https://www.google.com/maps/place/Centre+culturel+Morrin+Centre/@46.8127273,-71.2104537,15z/data=!4m2!3m1!1s0x0:0x25e3e000919cd663?sa=X&ved=2ahUKEwij-MWa8NXhAhXnrlQKHQqfDngQ_BIwEXoECAoQCA">Google Maps</a>:<br>
 <img src="assets/images/center.jpeg" class="shadow-image">
 
 

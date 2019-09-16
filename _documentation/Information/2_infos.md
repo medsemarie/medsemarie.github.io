@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Infos pratiques
+title: Pour passer une belle soirée
 front: false
 permalink: /info/infos
 ---
@@ -8,7 +8,7 @@ permalink: /info/infos
 
 <div>
 <i class="fa fa-star title-icon"></i>
-<h2 id="infos-pratiques"> {{page.title}}</h2>
+<h2 id="pour-passer-une-belle-soirée"> {{page.title}}</h2>
 </div>
 
 <ul>
