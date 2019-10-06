@@ -4,6 +4,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/info/attention</loc>
+</url>
+<url>
 <loc>http://localhost:4000/info/programme</loc>
 </url>
 <url>
